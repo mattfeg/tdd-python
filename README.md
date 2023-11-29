@@ -1,4 +1,4 @@
 # tdd-python
 
-Capitulo 3
-pag 64 - urls.py (Anotar no Notion)
+Capitulo 4
+pag 87 - About home page
